@@ -1,3 +1,6 @@
+@charset "utf-8";
+/* CSS Document */
+
 /* Extra small devices (phones, less than 768px) */
 /* No media query since this is the default in Bootstrap */
 
@@ -114,4 +117,6 @@ position: fixed;
 
 }
 
-
+.changeBackground{
+   background-image: none !important;
+}
